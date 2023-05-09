@@ -15,7 +15,7 @@
     "gzip-js": "^0.3.2",
     "moment": "^2.24.0",
     "vue": "^2.6.6",
-    "webpack-obfuscator": "^0.18.0"
+    "webpack-obfuscator": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
